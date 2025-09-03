@@ -3,7 +3,7 @@ Pac man using  A* Alogrithms for path finding
 
 # Team : 
 
-- Seif Elkerdany
+- Seif Elkerdany 
 - Jamal Khaled  
 - Ammar Yasser
 - Shrouq Waleed
